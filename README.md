@@ -1,14 +1,19 @@
-
+<h1 align="center">Hi there 👋, I'm Yousef Ayman</h1>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 ---
 
 # 👨‍💻 Yousef Alsebaey
 
 **Data Engineer | AI Enthusiast | Lifelong Learner** 🇪🇬 From Egypt
 
+
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Doesn't+Lie!;Welcome+to+My+World+🌍)
+
+
 ---
 
 ## 🧠 About Me
-- 🎓 AI Engineering student at **Mansoura University**, GPA: 3.9
+- 🎓 AI Engineering student
 - 🔍 Passionate about **Data Engineering**, **AI**, and turning data into real-world solutions
 - 💡 Experienced with ETL, Data Warehousing, and advanced Data Visualization
 - 🔧 Hands-on with Python, SQL, Azure, MongoDB, Power BI, and more
