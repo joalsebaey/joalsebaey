@@ -1,31 +1,24 @@
-# 👋 Hello, I'm Yousef Alsebaey
+<h1 align="center">Hi there 👋, I'm Yousef Ayman</h1>
+<h3 align="center">AI Engineering Student | Future Data Ninja 🥷</h3>
 
-## 💼 Data Engineer | AI Engineer | Problem Solver
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
-Passionate about transforming complex data into meaningful insights and building scalable data solutions. Currently specializing in data engineering and AI development while pursuing my Bachelor's in Artificial Intelligence at Mansoura University.
+- 🔭 I’m currently working on: AI projects and data-driven solutions  
+- 🌱 I’m learning: Machine Learning, NLP, and Cloud Platforms  
+- 👯 I’m looking to collaborate on: open-source ML tools  
+- 📫 How to reach me: yousefayman150@gmail.com
 
-## 🛠️ Technical Toolkit
-- **Languages**: Python, SQL, MongoDB
-- **Data Engineering**: ETL pipelines, data warehousing, data modeling
-- **Data Analysis**: Pandas, NumPy, exploratory data analysis
-- **Visualization**: Power BI, Matplotlib, Seaborn, Plotly
-- **Cloud**: Microsoft Azure, cloud-based analytics
-- **ML/AI**: MLflow, Hugging Face, machine learning fundamentals
+---
 
-## 🚀 Current Focus
-- Developing microservices for gamification and quiz platforms
-- Creating interactive data visualization dashboards
-- Exploring cloud-based data engineering solutions
-- Contributing to IEEE Mansoura Computer Society projects
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Doesn't+Lie!;Welcome+to+My+World+🌍)
 
-## 🌱 Always Learning
-Continuously expanding my knowledge in data engineering best practices, cloud architectures, and AI applications. Currently diving deeper into cloud-native data solutions and machine learning operations.
+### Connect with me  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub.io-informational)](https://yourusername.github.io)  
+[![Datacamp](https://img.shields.io/badge/Datacamp-Learning-green)](https://datacamp.com)
 
-## 🔍 Looking For
-Collaboration opportunities on data-focused projects, open-source contributions, and connecting with fellow data enthusiasts.
+---
 
-## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/yousef-alsebaey-741ba9114](https://www.linkedin.com/in/yousef-alsebaey-741ba9114/)
-- Email: yousefayman438@gmail.com
+🖼️ ![Funny GIF](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
-*"Data is the new oil, but like oil, it's valuable only when refined into something useful."*
+> "Be the data, not the noise." 📊
