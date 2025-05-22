@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Yousef Ayman</h1>
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
----
 
 # 👨‍💻 Yousef Alsebaey
 
@@ -8,6 +7,8 @@
 
 
 ![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Doesn't+Lie!;Welcome+to+My+World+🌍)
+
+
 
 
 ---
