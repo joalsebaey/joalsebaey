@@ -1,72 +1,14 @@
+# Yousef Alsebaey
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+I’m an AI Engineering student at Mansoura University in Egypt. I build tools to evaluate Arabic speech and language models, and data pipelines that turn raw records into datasets people can query.
 
-# 👨‍💻 Yousef Alsebaey
+## Selected work
 
-**Data Engineer | AI Enthusiast | Lifelong Learner** 🇪🇬 From Egypt
+| Project | What you can explore |
+| --- | --- |
+| [VoxVerify](https://github.com/joalsebaey/VoxVerify) | Compare speech model runs, inspect transcription errors, and collect blind listening feedback on synthesized speech. |
+| [Golden Dataset](https://github.com/joalsebaey/Golden_Dataset) | Evaluate text-to-SQL answers against an HR benchmark across PostgreSQL, MySQL, and SQL Server. |
+| [DEPI Social Media Analytics](https://github.com/joalsebaey/DEPI-Final-Project) | Follow the data preparation notebooks and see how posts, users, and dates connect to a sentiment fact table. |
+| [Ultra-Marathon Analytics](https://github.com/joalsebaey/ultra-marathon-analytics) | Explore race results from 1996–2022 through the analysis notebook, charts, and Power BI dashboard. |
 
-
-![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Doesn't+Lie!;Welcome+to+My+World+🌍)
-
-
-
-
----
-
-## 🧠 About Me
-- 🎓 AI Engineering student
-- 🔍 Passionate about **Data Engineering**, **AI**, and turning data into real-world solutions
-- 💡 Experienced with ETL, Data Warehousing, and advanced Data Visualization
-- 🔧 Hands-on with Python, SQL, Azure, MongoDB, Power BI, and more
-- 💬 Strong communication skills from roles in AIESEC, IEEE, and Youth Entrepreneurship Council
-- 📈 Interested in solving real-world problems with structured data systems and machine learning
-- ⚽ Football lover who enjoys merging data and sports
-
----
-
-## 🌐 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yousef-alsebaey-741ba9114)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/joalsebaey)
-
----
-
-## 🛠 Languages and Tools
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
-![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)
-![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
-![Seaborn](https://img.shields.io/badge/-Seaborn-cyan?style=flat-square&logo=seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange?style=flat-square&logo=matplotlib)
-![Azure](https://img.shields.io/badge/-Azure-007FFF?style=flat-square&logo=microsoft-azure)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=joalsebaey&show_icons=true&theme=dark&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joalsebaey&layout=compact&theme=dark)
-
----
-
-## 🏆 Featured Projects
-### 🔹 Social Media Dashboard (Oct 2024)
-**Tools:** SQL Server, Python, Power BI
-- Designed full-stack analytics dashboard for marketing agencies
-- Created automated ETL pipelines to consolidate multi-platform social media data
-
-### 🔹 Gamification Microservice
-**Tools:** Python, MongoDB
-- Developed gamified service for engagement in e-learning and e-commerce platforms
-- Implemented reward systems and scalable architecture
-
----
-
-> 🧠 *"Data doesn’t lie – but it sure needs cleaning!"* 🔍
-
-![Retro PC](https://yourimageurl.com/pc-gif.gif)
+[LinkedIn](https://linkedin.com/in/yousef-alsebaey-741ba9114) · [Portfolio](https://joalsebaey.github.io/)
